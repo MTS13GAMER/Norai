@@ -1,4 +1,4 @@
-#🌀 Norai
+# Norai
 
 Norai é um Site e apps desenvolvido para oferecer uma experiência variada, com foco em simplicidade, desempenho e design intuitivo.
 Acesse o site oficial: https://norai.gt.tc
